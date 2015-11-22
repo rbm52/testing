@@ -1,2 +1,2 @@
 # testing
-snadbox repository
+sandbox repository
